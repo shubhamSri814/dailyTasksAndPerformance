@@ -1,0 +1,4 @@
+1. give 1 contest.
+2. solve 1 kickstart problem.
+3. define pathway for learning q#.
+4. implement the optimizers for winter of code.
